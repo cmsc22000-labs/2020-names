@@ -7,3 +7,4 @@ Add your name to the list below:
 * Isaac Fink
 * Jacqueline Lee
 * Alex Sheen
+* Vallary Muhalia
